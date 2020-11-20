@@ -1,3 +1,37 @@
+:root{
+    --tangerineFixed: #C55420;
+}
+
 p {
     font-size: 16px;
+
+}
+
+
+.bgc-atomic-tangerine {
+    background-color:var(--tangerineFixed);
+}
+
+.tc-white {
+    /* color:var(--tangerineFixed)!important; */
+    color:white !important;
+}
+
+.btn-atomic-tangerine {
+    background:var(--tangerineFixed);
+    color: #FFFFFF!important;
+}
+
+.ltc-atomic-tangerine {
+    /* color:var(--tangerineFixed)!important; */
+    color:white;
+
+}
+
+.bgc-dark-slate-blue {
+    background-color: transparent;
+}
+
+.texture-paper::before{
+    background: initial;
 }
