@@ -7,6 +7,10 @@ p {
 
 }
 
+.citation {
+    font-size: 20px;
+    font-style: italic;
+}
 
 .bgc-atomic-tangerine {
     background-color:var(--tangerineFixed);
