@@ -15,6 +15,7 @@ p {
 .tc-white {
     /* color:var(--tangerineFixed)!important; */
     color:white !important;
+    background-color: #545454;
 }
 
 .btn-atomic-tangerine {
