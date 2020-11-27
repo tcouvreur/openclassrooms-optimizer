@@ -22,6 +22,10 @@ p {
     /* background-color: #545454; */
 }
 
+.bg-presentation {
+    background-image: url("img/image-de-presentation.jpg");
+}
+
 .btn-atomic-tangerine {
     background:var(--tangerineFixed);
     color: #FFFFFF!important;
