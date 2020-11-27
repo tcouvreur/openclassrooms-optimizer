@@ -23,7 +23,7 @@ p {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.jpg");
+    background-image: url("../img/image-de-presentation.jpg");
 }
 
 .btn-atomic-tangerine {
