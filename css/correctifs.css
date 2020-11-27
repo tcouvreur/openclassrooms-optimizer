@@ -44,3 +44,7 @@ p {
 .texture-paper::before{
     background: initial;
 }
+
+.img-responsive {
+    margin:auto;
+}
