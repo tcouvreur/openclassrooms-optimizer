@@ -49,7 +49,7 @@ p {
     margin:auto;
 }
 
-.img-logo {
-    width: 215px;
-    height: 40px;
+img {
+    width: 100%;
+    height: auto;
 }
