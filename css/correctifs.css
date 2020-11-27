@@ -48,3 +48,8 @@ p {
 .img-responsive {
     margin:auto;
 }
+
+.img-logo {
+    width: 215px;
+    height: 40px;
+}
